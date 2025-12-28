@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+    <version>1.0.0</version>
+    <patchinfo>
+        <baseurl>https://raw.githubusercontent.com/EnjoyRigel/rf-patch/main/patch/</baseurl>
+        <patchfile>patchlist.txt</patchfile>
+        <description>Enjoy Rigel Auto Update - GitHub Patch Server</description>
+    </patchinfo>
+</update>
